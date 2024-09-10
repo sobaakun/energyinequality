@@ -54,7 +54,7 @@ plot(lpg_lorenz,
 reg_model <- lm(
   lpgasexpyear ~ hhsize + totrooms + area + educationhhh + totalincome, data = tempfile
 )
-firewood_model <- lm(
-  
-)
+
+
+
   
